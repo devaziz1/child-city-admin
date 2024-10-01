@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@emotion/react": "^11.11.0",
-    "@mantine/carousel": "^6.0.20",
-    "@mantine/core": "^6.0.21",
+    "@mantine/carousel": "^6.0.22",
+    "@mantine/core": "^6.0.22",
     "@mantine/dates": "^6.0.13",
     "@mantine/dropzone": "^6.0.13",
     "@mantine/form": "^6.0.13",
@@ -49,6 +49,7 @@
     "react-query": "^3.39.3",
     "react-router-dom": "^6.11.2",
     "react-to-print": "^2.14.15",
+    "styled-components": "^6.1.13",
     "tabler-icons-react": "^1.56.0",
     "uuid": "^9.0.1"
   },
